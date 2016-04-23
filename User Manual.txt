@@ -1,0 +1,27 @@
+
+
+****READ ME****
+Hosted Site
+
+http://www.slsll.somee.com/
+
+
+Login Details
+
+*Adminisration Login Details*
+Username: admin
+Password: 123
+
+*Tutor Login Details*
+Username: tutor1
+Password:qwe
+
+*Registered User Login Details*
+Username:nuzla
+Password:nuzla
+
+*NOTE*
+
+Proposed solution have been implemented and as an additional feature Tute submission is in the process of implementation. So do please consider this when marking.
+Thank you.
+
